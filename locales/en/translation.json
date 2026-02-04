@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "courses": "Courses",
+    "contact": "Contact"
+  },
+  "home": {
+    "role1": "Fullstack Developer",
+    "role2": "System Architect",
+    "role3": "Problem Solver",
+    "bio1": "Transforming ideas into robust, scalable digital products.",
+    "bio2": "7 years of experience building modern web applications with focus on performance, accessibility, and clean code.",
+    "bio3": "Specializing in fullstack development with React, TypeScript, .NET, and Python.",
+    "viewProjects": "View Projects",
+    "getInTouch": "Get in Touch",
+    "downloadCV": "Download CV",
+    "scrollExplore": "↓ Scroll to explore"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "My professional journey through technologies and achievements.",
+    "intro1": "I'm a",
+    "intro1Bold": "Fullstack Developer",
+    "intro1After": "with",
+    "intro1Bold2": "7 years",
+    "intro1End": "of experience in web development, process automation, and data science.",
+    "intro2": "Started at age 11 with pentesting, transitioned to programming at 12, and have been building modern applications ever since. Currently studying Computer Science at UNIVALI.",
+    "intro3": "I work with both frontend and backend technologies, always focusing on performance, accessibility, and clean architecture.",
+    "languages": "Languages",
+    "technologies": "Technologies",
+    "yearsExp": "Years Exp",
+    "technicalArsenal": "Technical Arsenal",
+    "searchTechnologies": "Search technologies...",
+    "noTechnologies": "No technologies found matching your criteria.",
+    "all": "All",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Database",
+    "devops": "DevOps",
+    "scripting": "Scripting"
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "A showcase of my work across different technologies and domains. Click on any project to learn more.",
+    "viewDetails": "View Details →",
+    "visitSite": "Visit Site",
+    "viewCode": "View Code",
+    "aboutProject": "About This Project",
+    "technologiesUsed": "Technologies Used",
+    "sevenGenius": {
+      "shortDesc": "Data processing app for the 'Itajaí Challenge' competition, using NLP algorithms.",
+      "longDesc": "Application developed for the regional 'Itajaí Challenge' competition, where teams solve challenges based on local history and culture. The system processes challenge data, streamlining puzzle-solving and optimizing the participant experience. Uses NLP techniques for text analysis and task automation."
+    },
+    "rescueStick": {
+      "shortDesc": "Professional bootable system for operating system recovery and repair.",
+      "longDesc": "RescueStick v1.0.0 is a professional USB bootable system based on Debian Linux, designed specifically for IT technicians. Offers 7 essential tools in C++ and Python: Windows password reset, disk backup and recovery, hardware diagnostics, boot repair, file recovery, and malware scan. Complete project with 100% test coverage, MIT license, modular architecture, and modern institutional website with optimized SEO."
+    },
+    "prozes": {
+      "shortDesc": "CLI tool for scaffolding production-ready Python projects with Flask, FastAPI, and Django.",
+      "longDesc": "Powerful CLI tool that generates production-ready Python projects in seconds. Supports Flask, FastAPI, and Django with modern architectures (MVC, REST API, Clean Architecture). Includes real test cases, automated virtual environment setup, dependency installation, and CI/CD workflows. Available on PyPI with multilingual support."
+    },
+    "spotifyMancer": {
+      "shortDesc": "System for analyzing musical tastes, managing playlists, and recommendations using Spotify data.",
+      "longDesc": "Application inspired by Spotify Wrapped, but with expanded features, including detailed analysis of musical tastes, personalized recommendations, and AI usage for advanced insights. Allows playlist management and usage statistics exploration."
+    },
+    "hrManager": {
+      "shortDesc": "Employee and team management system for HR departments.",
+      "longDesc": "Complete application for people and team management, with features for employee data control, evaluations, reports, and integration with other corporate systems. Focused on facilitating the daily work of HR managers."
+    },
+    "financialManager": {
+      "shortDesc": "Financial manager and investment calculator for individuals and businesses.",
+      "longDesc": "System for personal and business financial control, with revenue/expense dashboards, investment recommendations based on user profile, and integration with modern databases. Focus on usability and automatic insights."
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "description": "My professional journey from 2018 to present, building scalable solutions and leading technical teams.",
+    "keyAchievements": "Key Achievements",
+    "technologies": "Technologies",
+    "visitCompany": "Visit Company",
+    "journeyStart": "Start of Journey",
+    "journeyStartSub": "Age 11 • First steps into technology and programming",
+    "freelancer": {
+      "description": "Developed custom solutions for clients across various sectors, working on confidential projects in web development, process automation, data science, and embedded systems.",
+      "achievements": [
+        "Simultaneous management of over 116,000 users in the system",
+        "Created automations that reduced critical high-concurrency process time by up to 50%",
+        "Reduced operational costs by 40% through process and infrastructure optimization",
+        "Developed custom internal tools, optimizing workflows and increasing team productivity"
+      ]
+    },
+    "contcode": {
+      "description": "Led backend and architecture of a warehouse and truck fleet management system for logistics companies.",
+      "achievements": [
+        "System delivery in 96h of intense coding",
+        "Team coordination ensuring high performance and project quality",
+        "Fully functional system for logistics and fleet management"
+      ]
+    },
+    "av09": {
+      "description": "Responsible for developing scalable WebServices for data collection, transformation, and analysis, focusing on performance and robustness.",
+      "achievements": [
+        "Created AI-based automated customer service systems",
+        "Implemented facial biometric authentication, elevating security and UX",
+        "Orchestrated complex processes to maximize operational efficiency",
+        "Delivered robust and scalable WebServices, integrating multiple technologies",
+        "Migrated from monolithic architecture to microservices, reducing update time from 35 minutes to 33 seconds."
+      ]
+    }
+  },
+  "courses": {
+    "title": "Education & Certifications",
+    "description": "Continuous learning through formal education and professional certifications.",
+    "academicEducation": "Academic Education",
+    "professionalCertifications": "Professional Certifications",
+    "inProgress": "In Progress",
+    "current": "Current:"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Have a project in mind or want to discuss opportunities? Let's connect!",
+    "connectWithMe": "Connect With Me",
+    "sendMessage": "Send a Message",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your.email@example.com",
+    "messagePlaceholder": "Tell me about your project...",
+    "sending": "Sending...",
+    "sendMessageBtn": "Send Message",
+    "successTitle": "Message Sent Successfully!",
+    "successMessage": "Thank you for reaching out. I'll get back to you as soon as possible!",
+    "sendAnother": "Send Another Message"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "allRights": "All rights reserved.",
+    "builtWith": "Built with React, TypeScript & Tailwind CSS"
+  }
+}

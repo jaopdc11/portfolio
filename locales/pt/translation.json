@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "experience": "Experiência",
+    "courses": "Cursos",
+    "contact": "Contato"
+  },
+  "home": {
+    "role1": "Desenvolvedor Fullstack",
+    "role2": "Arquiteto de Sistemas",
+    "role3": "Solucionador de Problemas",
+    "bio1": "Transformando ideias em produtos digitais robustos e escaláveis.",
+    "bio2": "7 anos de experiência construindo aplicações web modernas com foco em performance, acessibilidade e código limpo.",
+    "bio3": "Especializado em desenvolvimento fullstack com React, TypeScript, .NET e Python.",
+    "viewProjects": "Ver Projetos",
+    "getInTouch": "Entre em Contato",
+    "downloadCV": "Baixar CV",
+    "scrollExplore": "↓ Role para explorar"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Minha jornada profissional através de tecnologias e conquistas.",
+    "intro1": "Sou um",
+    "intro1Bold": "Desenvolvedor Fullstack",
+    "intro1After": "com",
+    "intro1Bold2": "7 anos",
+    "intro1End": "de experiência em desenvolvimento web, automação de processos e ciência de dados.",
+    "intro2": "Comecei aos 11 anos com pentesting, migrei para programação aos 12, e desde então construo aplicações modernas. Atualmente cursando Ciência da Computação na UNIVALI.",
+    "intro3": "Trabalho com tecnologias frontend e backend, sempre focando em performance, acessibilidade e arquitetura limpa.",
+    "languages": "Idiomas",
+    "technologies": "Tecnologias",
+    "yearsExp": "Anos Exp",
+    "technicalArsenal": "Arsenal Técnico",
+    "searchTechnologies": "Buscar tecnologias...",
+    "noTechnologies": "Nenhuma tecnologia encontrada com seus critérios.",
+    "all": "Todas",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Banco de Dados",
+    "devops": "DevOps",
+    "scripting": "Scripting"
+  },
+  "projects": {
+    "title": "Projetos",
+    "description": "Uma vitrine do meu trabalho através de diferentes tecnologias e domínios. Clique em qualquer projeto para saber mais.",
+    "viewDetails": "Ver Detalhes →",
+    "visitSite": "Visitar Site",
+    "viewCode": "Ver Código",
+    "aboutProject": "Sobre Este Projeto",
+    "technologiesUsed": "Tecnologias Utilizadas",
+    "sevenGenius": {
+      "shortDesc": "App de processamento de dados para a gincana 'Itajaí Challenge', usando algoritmos de NLP.",
+      "longDesc": "Aplicativo desenvolvido para a gincana regional 'Itajaí Challenge', onde times resolvem desafios baseados em história e cultura local. O sistema processa dados das provas, agilizando a resolução dos enigmas e otimizando a experiência dos participantes. Utiliza técnicas de NLP para análise de textos e automação de tarefas."
+    },
+    "rescueStick": {
+      "shortDesc": "Sistema bootável profissional para recuperação e reparo de sistemas operacionais.",
+      "longDesc": "RescueStick v1.0.0 é um sistema bootável USB profissional baseado em Debian Linux, desenvolvido especificamente para técnicos de TI. Oferece 7 ferramentas essenciais em C++ e Python: reset de senha do Windows, backup e recuperação de disco, diagnóstico de hardware, reparo de boot, recuperação de arquivos e scan de malware. Projeto completo com 100% de cobertura de testes, licença MIT, arquitetura modular e site institucional moderno com SEO otimizado."
+    },
+    "prozes": {
+      "shortDesc": "CLI tool para scaffolding de projetos Python production-ready com Flask, FastAPI e Django.",
+      "longDesc": "Ferramenta CLI poderosa que gera projetos Python prontos para produção em segundos. Suporta Flask, FastAPI e Django com arquiteturas modernas (MVC, REST API, Clean Architecture). Inclui casos de teste reais, configuração automatizada de ambiente virtual, instalação de dependências e workflows CI/CD. Disponível no PyPI com suporte multilíngue."
+    },
+    "spotifyMancer": {
+      "shortDesc": "Sistema para análise de gostos musicais, gerenciamento de playlists e recomendações usando dados do Spotify.",
+      "longDesc": "Aplicativo inspirado no Spotify Wrapped, mas com recursos expandidos, incluindo análise detalhada de gostos musicais, recomendações personalizadas e uso de IA para insights avançados. Permite gerenciar playlists e explorar estatísticas de uso."
+    },
+    "hrManager": {
+      "shortDesc": "Sistema para gestão de funcionários e equipes para setores de RH.",
+      "longDesc": "Aplicativo completo para gerenciamento de pessoas e equipes, com funcionalidades para controle de dados de funcionários, avaliações, relatórios e integração com outros sistemas corporativos. Focado em facilitar o dia a dia de gestores de RH."
+    },
+    "financialManager": {
+      "shortDesc": "Gerenciador financeiro e calculadora de investimentos para pessoas e empresas.",
+      "longDesc": "Sistema para controle financeiro pessoal e empresarial, com dashboards de receitas/despesas, recomendações de investimento baseadas no perfil do usuário e integração com bancos de dados modernos. Foco em usabilidade e insights automáticos."
+    }
+  },
+  "experience": {
+    "title": "Experiência",
+    "description": "Minha jornada profissional de 2018 até o presente, construindo soluções escaláveis e liderando equipes técnicas.",
+    "keyAchievements": "Principais Conquistas",
+    "technologies": "Tecnologias",
+    "visitCompany": "Visitar Empresa",
+    "journeyStart": "Início da Jornada",
+    "journeyStartSub": "Idade 11 • Primeiros passos em tecnologia e programação",
+    "freelancer": {
+      "description": "Desenvolvi soluções personalizadas para clientes de diversos setores, atuando em projetos confidenciais nas áreas de desenvolvimento web, automação de processos, ciência de dados e sistemas embarcados.",
+      "achievements": [
+        "Gerenciamento simultâneo de mais de 116.000 usuários no sistema",
+        "Criação de automações que reduziram tempo de processos críticos de alta concorrência em até 50%",
+        "Redução de custos operacionais em 40% através da otimização de processos e infraestrutura",
+        "Desenvolvimento de ferramentas internas customizadas, otimizando fluxos de trabalho e aumentando a produtividade da equipe"
+      ]
+    },
+    "contcode": {
+      "description": "Liderei o backend e a arquitetura de um sistema de gestão de galpões e frotas de caminhões para empresas de logística.",
+      "achievements": [
+        "Entrega do sistema em 96h de codificação intensa",
+        "Coordenação da equipe garantindo alta performance e qualidade do projeto",
+        "Sistema totalmente funcional para gerenciar logística e frotas"
+      ]
+    },
+    "av09": {
+      "description": "Responsável pelo desenvolvimento de WebServices escaláveis para coleta, transformação e análise de dados, com foco em performance e robustez.",
+      "achievements": [
+        "Criação de sistemas automatizados de atendimento baseados em IA",
+        "Implementação de autenticação biométrica facial, elevando a segurança e UX",
+        "Orquestração de processos complexos para maximizar eficiência operacional",
+        "Entrega de WebServices robustos e escaláveis, integrando múltiplas tecnologias",
+        "Migração de arquitetura monolítica para microserviços, reduzindo o tempo de atualização de 35 minutos para 33 segundos."
+      ]
+    }
+  },
+  "courses": {
+    "title": "Educação & Certificações",
+    "description": "Aprendizado contínuo através de educação formal e certificações profissionais.",
+    "academicEducation": "Formação Acadêmica",
+    "professionalCertifications": "Certificações Profissionais",
+    "inProgress": "Em Andamento",
+    "current": "Atual:"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "description": "Tem um projeto em mente ou quer discutir oportunidades? Vamos nos conectar!",
+    "connectWithMe": "Conecte-se Comigo",
+    "sendMessage": "Enviar uma Mensagem",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Mensagem",
+    "namePlaceholder": "Seu nome",
+    "emailPlaceholder": "seu.email@exemplo.com",
+    "messagePlaceholder": "Conte-me sobre seu projeto...",
+    "sending": "Enviando...",
+    "sendMessageBtn": "Enviar Mensagem",
+    "successTitle": "Mensagem Enviada com Sucesso!",
+    "successMessage": "Obrigado por entrar em contato. Responderei o mais breve possível!",
+    "sendAnother": "Enviar Outra Mensagem"
+  },
+  "footer": {
+    "quickLinks": "Links Rápidos",
+    "connect": "Conectar",
+    "allRights": "Todos os direitos reservados.",
+    "builtWith": "Construído com React, TypeScript & Tailwind CSS"
+  }
+}
