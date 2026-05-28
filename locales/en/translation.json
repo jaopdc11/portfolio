@@ -12,7 +12,7 @@
     "role2": "System Architect",
     "role3": "Problem Solver",
     "bio1": "Transforming ideas into robust, scalable digital products.",
-    "bio2": "7 years of experience building modern web applications with focus on performance, accessibility, and clean code.",
+    "bio2": "4 years of professional experience and 9 years of study in development, with focus on performance, accessibility, and clean code.",
     "bio3": "Specializing in fullstack development with React, TypeScript, .NET, and Python.",
     "viewProjects": "View Projects",
     "getInTouch": "Get in Touch",
@@ -25,13 +25,15 @@
     "intro1": "I'm a",
     "intro1Bold": "Fullstack Developer",
     "intro1After": "with",
-    "intro1Bold2": "7 years",
-    "intro1End": "of experience in web development, process automation, and data science.",
-    "intro2": "Started at age 11 with pentesting, transitioned to programming at 12, and have been building modern applications ever since. Currently studying Computer Science at UNIVALI.",
+    "intro1Bold2": "4 years",
+    "intro1End": "of professional experience in web development, process automation, and data science.",
+    "intro2": "Started at age 9 with cybersecurity, transitioned to programming at 10, and have been building modern applications ever since. Currently studying Computer Science at UNIVALI.",
     "intro3": "I work with both frontend and backend technologies, always focusing on performance, accessibility, and clean architecture.",
     "languages": "Languages",
     "technologies": "Technologies",
     "yearsExp": "Years Exp",
+    "years": "years",
+    "lessThanOneYear": "< 1 year",
     "technicalArsenal": "Technical Arsenal",
     "searchTechnologies": "Search technologies...",
     "noTechnologies": "No technologies found matching your criteria.",
@@ -50,9 +52,13 @@
     "viewCode": "View Code",
     "aboutProject": "About This Project",
     "technologiesUsed": "Technologies Used",
-    "sevenGenius": {
-      "shortDesc": "Data processing app for the 'Itajaí Challenge' competition, using NLP algorithms.",
-      "longDesc": "Application developed for the regional 'Itajaí Challenge' competition, where teams solve challenges based on local history and culture. The system processes challenge data, streamlining puzzle-solving and optimizing the participant experience. Uses NLP techniques for text analysis and task automation."
+    "cashly": {
+      "shortDesc": "Android personal finance app with automatic transaction capture via bank notifications.",
+      "longDesc": "Android personal finance app that automatically captures transactions by reading bank notifications in real time. Features a custom bank notification parser with intelligent categorization and continuous learning, offline-first sync with Supabase via WebSocket Realtime, biometric authentication, recurring transactions with AlarmManager and dashboards with charts. The web client offers the same features except for notification reading."
+    },
+    "encruza": {
+      "shortDesc": "Search and registration platform for Afro-Brazilian religion houses.",
+      "longDesc": "Platform connecting people to Umbanda, Candomblé, Quimbanda and Tambor de Mina houses, starting in Itajaí/SC. Visitors search on an interactive map with tradition, openness and verification filters. Leaders register and manage their house profile. Moderation works in two steps with cross-contact to ensure legitimacy. Architecture with DDD, Zod-first, granular RLS by role and 200+ tests (unit, integration and E2E)."
     },
     "rescueStick": {
       "shortDesc": "Professional bootable system for operating system recovery and repair.",
@@ -61,6 +67,10 @@
     "prozes": {
       "shortDesc": "CLI tool for scaffolding production-ready Python projects with Flask, FastAPI, and Django.",
       "longDesc": "Powerful CLI tool that generates production-ready Python projects in seconds. Supports Flask, FastAPI, and Django with modern architectures (MVC, REST API, Clean Architecture). Includes real test cases, automated virtual environment setup, dependency installation, and CI/CD workflows. Available on PyPI with multilingual support."
+    },
+    "joanini": {
+      "shortDesc": "Website for a handmade stationery shop with a dynamic gallery and integrated admin panel.",
+      "longDesc": "Full-featured platform for Joanini Personalizados, a handmade stationery and cardboard craft shop from Itajaí/SC. Features a Supabase-managed work gallery, customer testimonials, product categories and an admin panel for code-free content updates. Warm design inspired by the handmade aesthetic, with animations and decorative elements that convey the brand's care and personality."
     },
     "spotifyMancer": {
       "shortDesc": "System for analyzing musical tastes, managing playlists, and recommendations using Spotify data.",
@@ -82,7 +92,7 @@
     "technologies": "Technologies",
     "visitCompany": "Visit Company",
     "journeyStart": "Start of Journey",
-    "journeyStartSub": "Age 11 • First steps into technology and programming",
+    "journeyStartSub": "Age 9 • First steps in cybersecurity, transitioned to development at 10",
     "freelancer": {
       "description": "Developed custom solutions for clients across various sectors, working on confidential projects in web development, process automation, data science, and embedded systems.",
       "achievements": [
@@ -101,13 +111,13 @@
       ]
     },
     "av09": {
-      "description": "Responsible for developing scalable WebServices for data collection, transformation, and analysis, focusing on performance and robustness.",
+      "description": "Fullstack developer and technical reference on an enterprise operations platform serving users in Brazil, Vietnam, and China — 1,100+ screens, 137 backend modules, and 4 integrated databases.",
       "achievements": [
-        "Created AI-based automated customer service systems",
-        "Implemented facial biometric authentication, elevating security and UX",
-        "Orchestrated complex processes to maximize operational efficiency",
-        "Delivered robust and scalable WebServices, integrating multiple technologies",
-        "Migrated from monolithic architecture to microservices, reducing update time from 35 minutes to 33 seconds."
+        "Built a WhatsApp AI agent that executes real operations on the enterprise system through natural language — not a chatbot, but an operational agent that triggers backend processes with two-factor authentication for sensitive actions",
+        "Implemented facial recognition in production in Brazil using FaceNet with 4-criteria simultaneous matching (cosine similarity, Euclidean distance, and margins against competitors), eliminating passwords at critical access points",
+        "Automated the delivery pipeline with 17+ workflows, including CI alerts via WhatsApp and AI-powered automatic code review",
+        "Integrated the platform with 8 financial institutions and instrumented 281+ routes with full audit traceability over sensitive operations without modifying existing handlers",
+        "Led the migration from monolithic to microservices architecture, reducing deployment time from 35 minutes to 33 seconds"
       ]
     }
   },
@@ -122,7 +132,9 @@
   "contact": {
     "title": "Get In Touch",
     "description": "Have a project in mind or want to discuss opportunities? Let's connect!",
-    "connectWithMe": "Connect With Me",
+    "available": "Available for projects",
+    "callToAction": "Let's work together?",
+    "connectWithMe": "Send a message or reach out directly:",
     "sendMessage": "Send a Message",
     "name": "Name",
     "email": "Email",

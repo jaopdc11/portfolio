@@ -12,7 +12,7 @@
     "role2": "Arquiteto de Sistemas",
     "role3": "Solucionador de Problemas",
     "bio1": "Transformando ideias em produtos digitais robustos e escaláveis.",
-    "bio2": "7 anos de experiência construindo aplicações web modernas com foco em performance, acessibilidade e código limpo.",
+    "bio2": "4 anos de experiência profissional e 9 anos de estudo em desenvolvimento, com foco em performance, acessibilidade e código limpo.",
     "bio3": "Especializado em desenvolvimento fullstack com React, TypeScript, .NET e Python.",
     "viewProjects": "Ver Projetos",
     "getInTouch": "Entre em Contato",
@@ -25,13 +25,15 @@
     "intro1": "Sou um",
     "intro1Bold": "Desenvolvedor Fullstack",
     "intro1After": "com",
-    "intro1Bold2": "7 anos",
-    "intro1End": "de experiência em desenvolvimento web, automação de processos e ciência de dados.",
-    "intro2": "Comecei aos 11 anos com pentesting, migrei para programação aos 12, e desde então construo aplicações modernas. Atualmente cursando Ciência da Computação na UNIVALI.",
+    "intro1Bold2": "4 anos",
+    "intro1End": "de experiência profissional em desenvolvimento web, automação de processos e ciência de dados.",
+    "intro2": "Comecei aos 9 anos com cybersegurança, migrei para programação aos 10, e desde então construo aplicações modernas. Atualmente cursando Ciência da Computação na UNIVALI.",
     "intro3": "Trabalho com tecnologias frontend e backend, sempre focando em performance, acessibilidade e arquitetura limpa.",
     "languages": "Idiomas",
     "technologies": "Tecnologias",
     "yearsExp": "Anos Exp",
+    "years": "anos",
+    "lessThanOneYear": "< 1 ano",
     "technicalArsenal": "Arsenal Técnico",
     "searchTechnologies": "Buscar tecnologias...",
     "noTechnologies": "Nenhuma tecnologia encontrada com seus critérios.",
@@ -50,9 +52,13 @@
     "viewCode": "Ver Código",
     "aboutProject": "Sobre Este Projeto",
     "technologiesUsed": "Tecnologias Utilizadas",
-    "sevenGenius": {
-      "shortDesc": "App de processamento de dados para a gincana 'Itajaí Challenge', usando algoritmos de NLP.",
-      "longDesc": "Aplicativo desenvolvido para a gincana regional 'Itajaí Challenge', onde times resolvem desafios baseados em história e cultura local. O sistema processa dados das provas, agilizando a resolução dos enigmas e otimizando a experiência dos participantes. Utiliza técnicas de NLP para análise de textos e automação de tarefas."
+    "cashly": {
+      "shortDesc": "App Android de finanças pessoais com captura automática de transações via notificações bancárias.",
+      "longDesc": "Aplicativo Android de controle financeiro pessoal que captura transações automaticamente lendo notificações de bancos em tempo real. Conta com parser próprio de notificações bancárias com categorização inteligente e aprendizado contínuo, sincronização offline-first com Supabase via WebSocket Realtime, autenticação biométrica, transações recorrentes com AlarmManager e dashboards com gráficos. O cliente web oferece as mesmas funcionalidades, exceto a leitura de notificações."
+    },
+    "encruza": {
+      "shortDesc": "Plataforma de busca e cadastro de casas de religiões de matriz afro-brasileira.",
+      "longDesc": "Plataforma que conecta pessoas a casas de Umbanda, Candomblé, Quimbanda e Tambor de Mina, começando por Itajaí/SC. Visitantes buscam no mapa interativo com filtros de tradição, abertura e verificação. Dirigentes cadastram e gerenciam o perfil da sua casa. A moderação funciona em dois passos com contato cruzado para garantir legitimidade. Arquitetura com DDD, Zod-first, RLS granular por papel e 200+ testes (unitários, integração e E2E)."
     },
     "rescueStick": {
       "shortDesc": "Sistema bootável profissional para recuperação e reparo de sistemas operacionais.",
@@ -61,6 +67,10 @@
     "prozes": {
       "shortDesc": "CLI tool para scaffolding de projetos Python production-ready com Flask, FastAPI e Django.",
       "longDesc": "Ferramenta CLI poderosa que gera projetos Python prontos para produção em segundos. Suporta Flask, FastAPI e Django com arquiteturas modernas (MVC, REST API, Clean Architecture). Inclui casos de teste reais, configuração automatizada de ambiente virtual, instalação de dependências e workflows CI/CD. Disponível no PyPI com suporte multilíngue."
+    },
+    "joanini": {
+      "shortDesc": "Site para papelaria e cartonagem artesanal, com galeria dinâmica e painel administrativo integrado.",
+      "longDesc": "Plataforma completa para a Joanini Personalizados, papelaria artesanal de Itajaí/SC. Conta com galeria de trabalhos gerenciada via Supabase, depoimentos de clientes, categorias de produtos e painel administrativo para atualização de conteúdo sem necessidade de código. Design aconchegante inspirado na estética handmade, com animações e elementos decorativos que transmitem o carinho da marca."
     },
     "spotifyMancer": {
       "shortDesc": "Sistema para análise de gostos musicais, gerenciamento de playlists e recomendações usando dados do Spotify.",
@@ -82,7 +92,7 @@
     "technologies": "Tecnologias",
     "visitCompany": "Visitar Empresa",
     "journeyStart": "Início da Jornada",
-    "journeyStartSub": "Idade 11 • Primeiros passos em tecnologia e programação",
+    "journeyStartSub": "Idade 9 • Primeiros passos em cybersegurança, migração para desenvolvimento aos 10",
     "freelancer": {
       "description": "Desenvolvi soluções personalizadas para clientes de diversos setores, atuando em projetos confidenciais nas áreas de desenvolvimento web, automação de processos, ciência de dados e sistemas embarcados.",
       "achievements": [
@@ -101,13 +111,13 @@
       ]
     },
     "av09": {
-      "description": "Responsável pelo desenvolvimento de WebServices escaláveis para coleta, transformação e análise de dados, com foco em performance e robustez.",
+      "description": "Desenvolvedor fullstack e referência técnica em uma plataforma empresarial de gestão operacional com usuários no Brasil, Vietnã e China — mais de 1.100 telas, 137 módulos backend e 4 bancos de dados integrados.",
       "achievements": [
-        "Criação de sistemas automatizados de atendimento baseados em IA",
-        "Implementação de autenticação biométrica facial, elevando a segurança e UX",
-        "Orquestração de processos complexos para maximizar eficiência operacional",
-        "Entrega de WebServices robustos e escaláveis, integrando múltiplas tecnologias",
-        "Migração de arquitetura monolítica para microserviços, reduzindo o tempo de atualização de 35 minutos para 33 segundos."
+        "Construí um agente de IA no WhatsApp que executa operações reais no sistema empresarial via linguagem natural — não um chatbot, mas um agente operacional que aciona processos de backend com autenticação de segundo fator para ações críticas",
+        "Implementei reconhecimento facial em produção no Brasil com FaceNet e matching por 4 critérios simultâneos (similaridade coseno, distância euclidiana e margens contra competidores), eliminando senhas em pontos de acesso críticos",
+        "Automatizei o pipeline de entrega com 17+ workflows, incluindo alertas de CI direto no WhatsApp e revisão automática de código por IA",
+        "Integrei a plataforma com 8 instituições financeiras e instrumentei 281+ rotas com auditoria completa de operações sensíveis sem alterar os handlers existentes",
+        "Liderei a migração da arquitetura monolítica para microserviços, reduzindo o tempo de atualização do sistema de 35 minutos para 33 segundos"
       ]
     }
   },
@@ -122,7 +132,9 @@
   "contact": {
     "title": "Entre em Contato",
     "description": "Tem um projeto em mente ou quer discutir oportunidades? Vamos nos conectar!",
-    "connectWithMe": "Conecte-se Comigo",
+    "available": "Disponível para projetos",
+    "callToAction": "Vamos trabalhar juntos?",
+    "connectWithMe": "Me manda uma mensagem ou entre em contato direto:",
     "sendMessage": "Enviar uma Mensagem",
     "name": "Nome",
     "email": "Email",
