@@ -1,4 +1,8 @@
 {
+  "common": {
+    "closeModal": "Close modal",
+    "switchLanguage": "Switch language"
+  },
   "nav": {
     "home": "Home",
     "about": "About",
@@ -28,11 +32,12 @@
     "intro1Bold2": "4 years",
     "intro1End": "of experience developing high-complexity enterprise systems, focused on robust architecture, performance, and AI integration into real operational workflows.",
     "intro2": "Technical background rooted in offensive security since age 9, transitioning to development at 10. That foundation shaped an engineering approach focused on robustness and security from the ground up — with active research maintained at",
-    "intro3": "Currently pursuing a Bachelor's degree in Computer Science at UNIVALI.",
+    "intro3": "Currently pursuing a Technology degree in Systems Analysis & Development at UNINTER.",
     "securityNote": "Beyond development, I have an interest in offensive security — I built an educational C2 framework in Java with 11 attack modules, available at",
     "languages": "Languages",
     "technologies": "Technologies",
     "yearsExp": "Years Exp",
+    "projects": "Projects",
     "years": "years",
     "lessThanOneYear": "< 1 year",
     "technicalArsenal": "Technical Arsenal",
@@ -95,6 +100,9 @@
     "journeyStart": "Start of Journey",
     "journeyStartSub": "Age 9 • First steps in cybersecurity, transitioned to development at 10",
     "freelancer": {
+      "role": "Fullstack Developer",
+      "location": "Remote",
+      "period": "Jun 2022 - Mar 2024",
       "description": "Developed custom solutions for clients across various sectors, working on confidential projects in web development, process automation, data science, and embedded systems.",
       "achievements": [
         "Simultaneous management of over 116,000 users in the system",
@@ -112,6 +120,9 @@
       ]
     },
     "av09": {
+      "role": "Fullstack Developer",
+      "location": "Itajaí, Brazil",
+      "period": "Apr 2025 - Present",
       "description": "Fullstack developer and technical reference on an enterprise operations platform serving users in Brazil, Vietnam, and China — 1,100+ screens, 137 backend modules, and 4 integrated databases.",
       "achievements": [
         "Built a WhatsApp AI agent that executes real operations on the enterprise system through natural language — not a chatbot, but an operational agent that triggers backend processes with two-factor authentication for sensitive actions",
@@ -128,7 +139,9 @@
     "academicEducation": "Academic Education",
     "professionalCertifications": "Professional Certifications",
     "inProgress": "In Progress",
-    "current": "Current:"
+    "current": "Current:",
+    "semester": "sem. {{n}}",
+    "completed": "completed"
   },
   "contact": {
     "title": "Get In Touch",

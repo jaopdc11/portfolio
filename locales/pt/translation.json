@@ -1,4 +1,8 @@
 {
+  "common": {
+    "closeModal": "Fechar modal",
+    "switchLanguage": "Trocar idioma"
+  },
   "nav": {
     "home": "Início",
     "about": "Sobre",
@@ -28,11 +32,12 @@
     "intro1Bold2": "4 anos",
     "intro1End": "de experiência no desenvolvimento de sistemas enterprise de alta complexidade, com foco em arquitetura robusta, performance e integração de IA em fluxos operacionais reais.",
     "intro2": "Formação técnica iniciada em segurança ofensiva aos 9 anos, com transição para desenvolvimento aos 10. Essa base moldou uma abordagem de engenharia focada em robustez e segurança desde a concepção — com pesquisa ativa mantida em",
-    "intro3": "Atualmente cursando Bacharelado em Ciência da Computação na UNIVALI.",
+    "intro3": "Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na UNINTER.",
     "securityNote": "Além do desenvolvimento, tenho interesse em segurança ofensiva — construí um C2 framework educacional em Java com 11 módulos de ataque, disponível em",
     "languages": "Idiomas",
     "technologies": "Tecnologias",
     "yearsExp": "Anos Exp",
+    "projects": "Projetos",
     "years": "anos",
     "lessThanOneYear": "< 1 ano",
     "technicalArsenal": "Arsenal Técnico",
@@ -95,6 +100,9 @@
     "journeyStart": "Início da Jornada",
     "journeyStartSub": "Idade 9 • Primeiros passos em cybersegurança, migração para desenvolvimento aos 10",
     "freelancer": {
+      "role": "Desenvolvedor Fullstack",
+      "location": "Remoto",
+      "period": "Jun 2022 - Mar 2024",
       "description": "Desenvolvi soluções personalizadas para clientes de diversos setores, atuando em projetos confidenciais nas áreas de desenvolvimento web, automação de processos, ciência de dados e sistemas embarcados.",
       "achievements": [
         "Gerenciamento simultâneo de mais de 116.000 usuários no sistema",
@@ -112,6 +120,9 @@
       ]
     },
     "av09": {
+      "role": "Desenvolvedor Fullstack",
+      "location": "Itajaí, SC",
+      "period": "Abr 2025 - Atual",
       "description": "Desenvolvedor fullstack e referência técnica em uma plataforma empresarial de gestão operacional com usuários no Brasil, Vietnã e China — mais de 1.100 telas, 137 módulos backend e 4 bancos de dados integrados.",
       "achievements": [
         "Construí um agente de IA no WhatsApp que executa operações reais no sistema empresarial via linguagem natural — não um chatbot, mas um agente operacional que aciona processos de backend com autenticação de segundo fator para ações críticas",
@@ -128,7 +139,9 @@
     "academicEducation": "Formação Acadêmica",
     "professionalCertifications": "Certificações Profissionais",
     "inProgress": "Em Andamento",
-    "current": "Atual:"
+    "current": "Atual:",
+    "semester": "{{n}}º sem.",
+    "completed": "concluído"
   },
   "contact": {
     "title": "Entre em Contato",
